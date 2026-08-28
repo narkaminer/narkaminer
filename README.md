@@ -11,7 +11,7 @@
 - 🎓 **Computer Science Graduate** from Sami Shamoon College of Engineering
 - 💼 **Former IDF Network Specialist** with leadership experience managing 20+ technicians
 - 🌐 **Networking Expert** in Cisco & Juniper equipment, LAN/WAN management
-- 💻 **Programming Enthusiast** with skills in Java, C/C++, Python, SQL/SQLite, and Assembly
+- 💻 **Programming Enthusiast** with skills in Java, C,C++,C#,Unity, Python, SQL/SQLite, and Assembly
 - 🗄️ **Database Experience** with SQLite and DB Browser for SQLite
 - 🎯 **Looking for opportunities** in software development
 - 🇮🇱 **Based in Israel** | Fluent in Hebrew, English, Russian, Romanian
